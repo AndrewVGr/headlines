@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import feedparser
 from flask import Flask
 
